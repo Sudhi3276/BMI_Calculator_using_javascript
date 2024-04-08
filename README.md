@@ -1,2 +1,1 @@
-# BMI_Calculator_using_javascript
-A JavaScript program to calculate Body Mass Index (BMI) based on user's weight and height. It categorizes BMI into "Underweight", "Normal", "Overweight", or "Obesity". Simple input prompts guide users through the process.
+Consists Various concepts Javascript which compleletely for the begineers .It is very Friendly consists of basic syntax,control statment and solving some problems
